@@ -25,3 +25,8 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+## Origin of the project 
+This project take place during the preparation of a MBA developpement Full Stack, at the school MyDigitalSchool of Paris.
+You can find the needs of this projects [There](https://gist.github.com/capywebformations/5298abc51cb60f087a142e2c843ed740)
